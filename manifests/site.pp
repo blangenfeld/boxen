@@ -77,6 +77,7 @@ node default {
 
   # moar stuff
   include caffeine
+  include java
   include mongodb
   include rdio
   include skype

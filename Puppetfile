@@ -38,6 +38,7 @@ github "xquartz",    "1.1.0"
 # https://github.com/boxen.
 
 github "caffeine",       "1.0.0"
+github "java",           "1.1.2"
 github "mongodb",        "1.0.4"
 github "rdio",           "1.0.0"
 github "skype",          "1.0.2"
