@@ -75,6 +75,13 @@ node default {
   include ruby::1_9_3
   include ruby::2_0_0
 
+  # moar stuff
+  include caffeine
+  include mongodb
+  include rdio
+  include skype
+  include sublime_text_2
+
   # common, useful packages
   package {
     [
