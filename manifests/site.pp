@@ -81,7 +81,7 @@ node default {
   include rdio
   include skype
   include sublime_text_2
-  include webstorm
+  #include webstorm
 
   # common, useful packages
   package {

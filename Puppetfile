@@ -41,6 +41,6 @@ github "caffeine",       "1.0.0"
 github "mongodb",        "1.0.4"
 github "rdio",           "1.0.0"
 github "skype",          "1.0.2"
-github "sublime_text_2", "1.1.0"
-github "webstorm",       "1.0.0"
+github "sublime_text_2", "1.1.2"
+#github "webstorm",       "1.1.0"
 
