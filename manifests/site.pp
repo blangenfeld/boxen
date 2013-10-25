@@ -77,12 +77,15 @@ node default {
 
   # moar stuff
   include caffeine
+  include imagemagick
   include java
   include mongodb
+  include redis
   include rdio
   include skype
   include sublime_text_2
   #include webstorm
+  include wget
 
   # common, useful packages
   package {
